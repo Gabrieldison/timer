@@ -6,7 +6,6 @@
   <a href="#how-it-works">How it works</a> • 
   <a href="#tech-stack">Tech Stack</a> • 
   <a href="#author">Author</a> • 
-  <a href="#user-content-license">License</a>
 </p>
 
 ![Screenshot_200](https://github.com/Gabrieldison/timer/assets/85500242/f2df1c5a-9847-42ab-95bc-fc0fc57df1aa)
